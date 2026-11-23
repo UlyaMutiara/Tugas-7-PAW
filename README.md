@@ -133,7 +133,7 @@ Pastikan komputer sudah terpasang **Node.js** (versi 18+).
 ### Langkah Menjalankan:
 ```bash
 # 1. Masuk ke direktori proyek
-cd katalog-produk-react
+cd Tugas-7-PAW
 
 # 2. Instalasi dependencies (jika belum)
 npm install
@@ -150,11 +150,11 @@ Buka browser dan akses alamat lokal yang muncul di terminal (biasanya `http://lo
 
 Repository lokal sudah memiliki 5+ commit terstruktur. Untuk mengunggah ke GitHub Anda:
 
-1. Buat repository baru di **[GitHub](https://github.com/new)** dengan nama: `katalog-produk-react`.
+1. Buat repository baru di **[GitHub](https://github.com/new)** dengan nama: `Tugas-7-PAW`.
 2. Hubungkan repository lokal dan lakukan push:
 ```bash
 # Hubungkan ke repository GitHub Anda (ganti URL dengan repository Anda)
-git remote add origin https://github.com/UlyaMutiara/katalog-produk-react.git
+git remote add origin https://github.com/UlyaMutiara/Tugas-7-PAW.git
 
 # Pastikan branch utama bernama main
 git branch -M main
@@ -172,16 +172,16 @@ Aplikasi React ini dapat dipublikasikan secara online hanya dalam 2 menit menggu
 ### Cara 1: Deploy Menggunakan Vercel (Paling Direkomendasikan)
 1. Buka **[vercel.com](https://vercel.com)** dan login menggunakan akun GitHub Anda.
 2. Klik tombol **"Add New..."** lalu pilih **"Project"**.
-3. Pilih repository `katalog-produk-react` dari daftar repository GitHub Anda.
+3. Pilih repository `Tugas-7-PAW` dari daftar repository GitHub Anda.
 4. Pada konfigurasi build, biarkan default (*Framework Preset: Vite*).
 5. Klik tombol **"Deploy"**.
 6. Dalam hitungan detik, aplikasi Anda sudah live online dengan URL gratis seperti:  
-   `https://katalog-produk-react-ulya.vercel.app`
+   `https://Tugas-7-PAW-ulya.vercel.app`
 
 ### Cara 2: Menghubungkan ke Website Pribadi
 Pada website pribadi Anda (misal portofolio di GitHub Pages / domain sendiri), tambahkan link tautan menuju aplikasi ini:
 ```html
-<a href="https://katalog-produk-react-ulya.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://Tugas-7-PAW-ulya.vercel.app" target="_blank" rel="noopener noreferrer">
   🚀 Buka Aplikasi Katalog Produk React
 </a>
 ```
@@ -202,8 +202,8 @@ PENGUMPULAN TUGAS INDIVIDU: COMPONENT-BASED UI DEVELOPMENT (REACT)
    - NIM : 220101001
 
 2. Tautan Tugas:
-   - Link Website Pribadi / Aplikasi Online: https://katalog-produk-react-ulya.vercel.app
-   - Link Repository GitHub: https://github.com/UlyaMutiara/katalog-produk-react
+   - Link Website Pribadi / Aplikasi Online: https://Tugas-7-PAW-ulya.vercel.app
+   - Link Repository GitHub: https://github.com/UlyaMutiara/Tugas-7-PAW
 
 3. Screenshot Tampilan Aplikasi:
    - (Lampirkan file screenshot tampilan katalog, modal detail, dan drawer keranjang)
