@@ -140,5 +140,5 @@ export const STUDENT_INFO = {
   nim: "1247050104",
   class: "Teknik Informatika / Pemrograman Web",
   academicYear: "2026/2027",
-  portfolioUrl: "https://github.com/UlyaMutiara"
+  portfolioUrl: "https://github.com/UlyaMutiara/Tugas-7-PAW"
 };
