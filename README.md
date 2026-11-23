@@ -4,7 +4,7 @@
 > **Materi:** Component-Based UI Development with React  
 > **Teknologi:** React 18, Vite, JavaScript (JSX), Modern CSS (Flexbox & Grid)  
 > **Nama Mahasiswa:** Ulya Mutiara  
-> **NIM:** 220101001 *(Dapat disesuaikan di `src/data/initialProducts.js`)*  
+> **NIM:** 1247050104  
 > **Kelas / Prodi:** Teknik Informatika / Sistem Informasi  
 
 ---
@@ -199,7 +199,7 @@ PENGUMPULAN TUGAS INDIVIDU: COMPONENT-BASED UI DEVELOPMENT (REACT)
 
 1. Identitas Mahasiswa:
    - Nama: Ulya Mutiara
-   - NIM : 220101001
+   - NIM : 1247050104
 
 2. Tautan Tugas:
    - Link Website Pribadi / Aplikasi Online: https://Tugas-7-PAW-ulya.vercel.app

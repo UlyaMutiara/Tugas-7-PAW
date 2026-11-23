@@ -22,18 +22,6 @@ export default function Footer({ studentInfo }) {
             </p>
           </div>
 
-          {/* Ketentuan Tugas yang Dipenuhi */}
-          <div className="footer-col">
-            <h4 className="footer-heading">Ketentuan Tugas Terpenuhi</h4>
-            <ul className="footer-list">
-              <li>✅ React + Vite + JSX</li>
-              <li>✅ 7+ Komponen Terpisah & Reusable</li>
-              <li>✅ Props & useState Management</li>
-              <li>✅ Conditional & List Rendering</li>
-              <li>✅ 5 Fitur Interaktif Lengkap</li>
-            </ul>
-          </div>
-
           {/* Identitas Mahasiswa */}
           <div className="footer-col student-col">
             <h4 className="footer-heading">Identitas Mahasiswa</h4>

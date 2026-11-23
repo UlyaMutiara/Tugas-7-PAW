@@ -137,7 +137,7 @@ export const CATEGORIES = [
 
 export const STUDENT_INFO = {
   name: "Ulya Mutiara",
-  nim: "220101001",
+  nim: "1247050104",
   class: "Teknik Informatika / Pemrograman Web",
   academicYear: "2026/2027",
   portfolioUrl: "https://github.com/UlyaMutiara"
